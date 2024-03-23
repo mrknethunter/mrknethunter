@@ -6,6 +6,7 @@ I'm currently a Computer Science student interested in computer networks, comput
 - Network programming and security principles
 - DevOps (CI/CD, IaaC)
 - Web application vulnerability assessment
+- GDPR and eIDAS software compliance
 - Cloud (AWS)
 
 ---
