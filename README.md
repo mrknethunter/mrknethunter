@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Mirko
+I'm currently a Computer Science student interested in computer networks, computer security and distributed systems.
 
-<!--
-**mrknethunter/mrknethunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Main skills
+- Programming with C, C++, Java, Python, JavaScript
+- Network programming and security principles
+- DevOps (CI/CD, IaaC)
+- Web application vulnerability assessment
+- Cloud (AWS)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🔭 I’m currently working on -->
+- 🌱 I’m currently learning **IoT Firmware Analysis**
+- 👯 I’m looking to collaborate on **Research project**
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/mirkomangano/">My Linkedin profile</a>
+
