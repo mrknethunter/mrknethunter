@@ -1,5 +1,5 @@
 ### Hi, I'm Mirko
-I'm currently a Computer Science student interested in computer networks, computer security and distributed systems.
+I'm currently a Computer Science student and developer interested in computer networks, computer security and distributed systems.
 
 #### Main skills
 - Programming with C, C++, Java, Python, JavaScript
