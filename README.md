@@ -4,7 +4,7 @@ I'm currently a Computer Science student and developer interested in computer ne
 #### Main skills
 - Programming with C, C++, Java, Python, JavaScript
 - Network programming and security principles
-- DevOps (CI/CD, IaaC)
+- DevOps (CI/CD, IaC)
 - Web application vulnerability assessment
 - GDPR and eIDAS software compliance
 - Data engineering
